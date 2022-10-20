@@ -1,2 +1,2 @@
 # UnityNewInputSystem
-a template implementation for habndling inputs in Unity
+a template implementation for handling inputs in Unity
